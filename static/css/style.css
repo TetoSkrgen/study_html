@@ -1,0 +1,8 @@
+.your-card {
+    background-color: #263238;
+    color: #fff;
+  }
+  
+.your-card.card .card-text{
+    color: #fff;
+  }
